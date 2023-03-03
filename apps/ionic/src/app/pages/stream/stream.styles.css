@@ -1,0 +1,43 @@
+.video-container {
+  width: 100%; 
+  height: 380px; 
+  margin-top: 10px;
+  position: relative;
+  background-color: rgb(0, 0, 190);
+  display: flex; 
+  justify-content: center;
+  align-items: center; 
+}
+
+.cards-container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-content: space-between;
+}
+
+.product-card-container {
+  width: 120px; 
+  height: 105px; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+
+.stream-header-style { 
+  font-weight: bold; 
+  height: 100%; 
+  margin: 10px 0 10px 7px; 
+}
+
+.header-container-style { 
+  display: flex; 
+  align-items: center; 
+  padding-left: 20px; 
+}

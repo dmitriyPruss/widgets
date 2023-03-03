@@ -1,0 +1,44 @@
+ion-item {
+  --border-color: #ddd;
+  --border-width: 2px;
+  --border-radius: 5px;
+  margin: 5px;
+}
+
+ion-button {
+  width: 57px
+}
+
+.icon-header-style { 
+  display: flex; 
+  align-items: center; 
+  padding-left: 20px; 
+}
+
+.store-header-style {
+  font-weight: bold; 
+  width: 80px; 
+  height: 100%; 
+  margin: 10px 0 10px 7px; 
+}
+
+.widgets-quantity {
+  width: 20px; 
+  text-align: center; 
+  font-weight: bold; 
+}
+
+.content-background {
+  width: 100%; 
+  height: 100%; 
+  position: absolute; 
+  background: #f5f6f9; 
+  top: 0 
+}
+
+.button-content {
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+}
+

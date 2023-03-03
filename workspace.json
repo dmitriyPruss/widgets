@@ -1,0 +1,13 @@
+{
+	"version": 2,
+	"projects": {
+		"api": "apps/api",
+		"data": "libs/data",
+		"frontend": "apps/frontend",
+		"frontend-e2e": "apps/frontend-e2e",
+		"ionic": "apps/ionic",
+		"ionic-e2e": "apps/ionic-e2e",
+		"shared": "libs/shared",
+		"store": "libs/store"
+	}
+}

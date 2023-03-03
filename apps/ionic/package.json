@@ -1,0 +1,27 @@
+{
+	"name": "ionic",
+	"version": "1.0.0",
+	"dependencies": {
+		"@capacitor/core": "^4.6.3",
+		"@ionic/react": "^6.5.3",
+		"@ionic/react-router": "^5.9.4",
+		"@reduxjs/toolkit": "^1.9.1",
+		"react-redux": "^8.0.5",
+		"react": "^18.2.0",
+		"ionicons": "^6.1.2",
+		"react-dom": "^18.2.0",
+		"react-router-dom": "^5.3.4",
+		"amazon-ivs-player": "^1.16.0",
+		"socket.io-client": "4.5.4",
+		"reflect-metadata": "^0.1.13"
+	},
+	"devDependencies": {
+		"@capacitor/cli": "^4.6.3",
+		"@types/react": "^18.0.27",
+		"@capacitor/android": "^4.6.3",
+		"@capacitor/ios": "^4.6.3",
+		"@types/react-router-dom": "^5.3.3",
+		"@types/video.js": "^7.3.50",
+		"video.js": "^7.21.1"
+	}
+}

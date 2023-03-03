@@ -1,0 +1,17 @@
+ion-toolbar {
+  --min-height: 70px;
+  box-shadow: 0 2px 10px grey;
+}
+
+.widgets-header-style { 
+  font-weight: bold;
+  width: 90px; 
+  height: 100%;
+  margin: 10px 0px 10px 5px; 
+}
+
+.header-content-style {
+  display: flex;
+  align-items: center; 
+  padding-left: 20px; 
+}
